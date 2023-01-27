@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,vscode,discord&theme=dark)](https://skillicons.dev)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mehmet017.visitor-badge&left_text=Profile%20views)
 
-        </a>
-    </div>
+
