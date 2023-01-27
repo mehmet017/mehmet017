@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehmet017&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,vscode,discord&theme=dark)](https://skillicons.dev)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mehmet017.visitor-badge&left_text=Profile%20views)
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@31746fc6-ba93-49bd-9bf1-bc1462707123/5bbf7946-d2b1-4939-93d4-25a6fe55e3fa.png" /></a>
 <a href="https://github.com/mehmet017/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=mehmet017&row=1&column=7&theme=darkhub" alt="mehmet017" />
         </a>
